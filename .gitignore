@@ -3,3 +3,9 @@ fractol
 objs/
 
 .vscode/
+
+includes/libft/libft_obj/
+
+includes/libft/printf_obj/
+
+uncludes/libft/libft.a
