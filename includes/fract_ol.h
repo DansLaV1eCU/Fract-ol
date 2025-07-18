@@ -3,17 +3,17 @@
 /*                                                        :::      ::::::::   */
 /*   fract_ol.h                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: llupache <llupache@student.42.fr>          +#+  +:+       +#+        */
+/*   By: danslav1e <danslav1e@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/22 18:23:53 by llupache          #+#    #+#             */
-/*   Updated: 2025/05/22 20:06:21 by llupache         ###   ########.fr       */
+/*   Updated: 2025/07/18 17:36:38 by danslav1e        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FRACT_OL_H
 # define FRACT_OL_H
 
-# include "libft/libft.h"
+# include "libft/includes/libft.h"
 # include "minilibx-linux/mlx.h"
 # include "minilibx-linux/mlx_int.h"
 # include <math.h>

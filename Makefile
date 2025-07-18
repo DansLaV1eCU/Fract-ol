@@ -17,7 +17,7 @@ INCLUDES_FLAG 	= -I$(INCLUDES_DIR) \
 				  -I$(LIBFT_DIR) \
 
 INCLUDES		= $(wildcard $(INCLUDES_DIR)/*.h) \
-				  $(LIBFT_DIR)/libft.h \
+				  $(LIBFT_DIR)/includes/libft.h \
 
 # Sources
 SRCS_DIR		= srcs/
